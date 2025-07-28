@@ -15,10 +15,6 @@ A smart local chatbot app built using **Flutter**, designed to track your daily 
 
 ---
 
-## 🖼️ Screenshots
-
-*(You can add your own screenshots here by uploading PNG/JPEG images and linking them)*
-
 ---
 
 ## 🚀 Getting Started
