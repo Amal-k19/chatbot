@@ -1,16 +1,30 @@
-# chatbot
+# 🤖 AI Fitness Chatbot (Flutter)
 
-A new Flutter project.
+A smart local chatbot app built using **Flutter**, designed to track your daily **workouts**, **meals**, and generate **PDF summaries** — all without using any external APIs.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🧠 Chat-style interface
+- 🏋️ Workout tracking
+- 🍽️ Meal logging
+- 📄 Generate PDF summary on request
+- 💾 Saves data locally (using `shared_preferences`)
+- 📴 Works 100% offline
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🖼️ Screenshots
+
+*(You can add your own screenshots here by uploading PNG/JPEG images and linking them)*
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/Amal-k19/chatbot.git
+cd chatbot
